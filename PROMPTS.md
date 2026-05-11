@@ -1,15 +1,16 @@
 # AI Summary Prompt
 
-You are an AI infrastructure cost consultant.
+The AI assistant receives:
+- tool stack
+- savings opportunities
+- use case
+- financial recommendations
 
-A user completed an AI spend audit.
+Prompt objective:
+Generate a concise executive-style summary explaining:
+- current inefficiencies
+- optimization opportunities
+- estimated savings
+- recommended actions
 
-Write a concise professional summary (~100 words).
-
-Requirements:
-- Mention where savings are coming from
-- Mention if stack is already optimized
-- Sound financially rational
-- Do not exaggerate
-- Do not invent savings
-- Be concise and executive-friendly
+Fallback summaries are used if API generation fails.
