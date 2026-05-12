@@ -1,4 +1,4 @@
-# Dev Log
+# Dev Log 
 
 ## Day 1
 - researched assignment
@@ -32,3 +32,17 @@
 - deployment
 - production validation
 - Lighthouse optimization
+
+ ## AI-Assisted Development Notes
+
+ I used AI tools including ChatGPT and Google Gemini were used during development as engineering assistants for:
+
+- debugging runtime issues
+- refining Tailwind responsiveness
+- validating architecture decisions
+- generating implementation ideas
+- improving testing coverage
+
+All business logic, implementation decisions, integrations, debugging, and final validation were reviewed and adjusted manually during development.
+
+The project intentionally separates deterministic financial audit logic from AI-generated summaries to maintain explainability and reliability.
